@@ -262,8 +262,3 @@ body {
   max-width: var(--wrapper-width);
   margin-inline: auto;
 }
-
-.section p {
-  margin-block: 1rem;
-  font-size: 1.125rem;
-}
